@@ -13,7 +13,7 @@ namespace PatientManagementSystem
       {
         Console.WriteLine(" Welcome to Patient Management System ");
         Console.WriteLine();
-        //Console.WriteLine(" ************************************ ");
+        Console.WriteLine(" ************************************ ");
         Console.WriteLine();
         Console.WriteLine("1. Insert ");
         Console.WriteLine("2. Print ");
